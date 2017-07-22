@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OpenGLFragment</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sensor_linear_acc">Lineare Beschleunigung</string>
+    <string name="sensor_acc">Beschleunigung</string>
+    <string name="velocity">Geschwindigkeit</string>
+    <string name="position">Position</string>
+    <string name="orientation">Orientierung</string>
+</resources>
